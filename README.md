@@ -1,8 +1,12 @@
-![logo](https://github.com/rubeyatuljannat24/rubeyatuljannat24/blob/main/banner.png)
+![logo](https://github.com/rubeyatuljannat24/rubeyatuljannat24/blob/main/GithubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Rubeyatul Jannat Punom</h1>
 <h3 align="center">A passionate web learner from Bangladesh.</h3>
 
+## 👨‍💻 About Me  
+I'm a passionate web learner. I love working with **JavaScript**, **React** and I'm always exploring new tools to improve my workflow. I am a hardworking and honest person with a strong work ethics. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+
+---
 - 🌱 I’m currently learning **JavaScript,TypeScript,React**
 
 - 📫 How to reach me **rubeyatuljannat06@gmail.com**
